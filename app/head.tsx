@@ -8,7 +8,7 @@ export default function Head() {
       {/* Open Graph Meta Tags */}
       <meta property="og:title" content="Unique Coconut Oil" />
       <meta property="og:description" content="Premium unrefined coconut oil for hair, skin, and cooking. 100% natural and locally sourced." />
-      <meta property="og:image" content="https://uniquecart.vercel.app/25L.png" />
+      <meta property="og:image" content="https://uniquecart.vercel.app/og-image.jpg" />
       <meta property="og:url" content="https://uniquecart.vercel.app" />
       <meta property="og:site_name" content="Unique Coconut Oil" />
       <meta property="og:type" content="website" />
@@ -18,7 +18,7 @@ export default function Head() {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Unique Coconut Oil" />
       <meta name="twitter:description" content="Premium unrefined coconut oil for hair, skin, and cooking. 100% natural and locally sourced." />
-      <meta name="twitter:image" content="https://uniquecart.vercel.app/25L.png" />
+      <meta name="twitter:image" content="https://uniquecart.vercel.app/og-image.jpg" />
     </>
   )
 }
